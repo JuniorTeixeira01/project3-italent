@@ -1,0 +1,16 @@
+/*
+ Arquivo css do main nele defino o display flex com um limite de conteúdo
+ para que quando chegar neste limite ele desça para a parte de baixo
+ através da propriedade flex-wrap.
+*/
+
+.container-main{
+    width: 100%;
+    height: 100%;
+    background-color: #01403A;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}

@@ -1,0 +1,14 @@
+/*
+ Arquivo mobile do FormInput
+*/
+
+@media (min-width: 390px) and (max-width: 520px){
+    .container-form{
+        width: 70%;
+    }
+}
+@media (min-width: 520px) and (max-width: 900px){
+    .container-form{
+        width: 70%;
+    }
+}

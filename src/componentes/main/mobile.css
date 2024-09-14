@@ -1,0 +1,9 @@
+/*
+ Arquivo css mobile do Main
+*/
+
+@media (min-width: 390px) and (max-width: 520px){
+    .container-main{
+        height: 100%;
+    }
+}

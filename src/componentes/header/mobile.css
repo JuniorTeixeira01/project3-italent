@@ -1,0 +1,10 @@
+/*
+ Arquivo css mobile do Header
+*/
+
+@media (min-width: 390px) and (max-width: 520px){
+    .container{
+        height: 70PX;
+        font-size: 12px; 
+    }
+}

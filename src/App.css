@@ -1,0 +1,20 @@
+/*
+ Arquivo css => Neste arquivo faço uso da propriedade global "*", e nela exclu-o
+ a margem e o espaçamento tornando-os 0 e também uso o box-sizing, para conte-los em
+ box.
+
+ Na propriredade App coloco um display flex column para que os componentes fiquem em 
+ colunas alinhadas no centro com um espaço de 50px.
+*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  background-color: #01403A;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+}

@@ -1,0 +1,25 @@
+/*
+ Arquivo css do FormInput, nele faço a definição do container form-input,
+ alinhando o ele no centro em coluna.
+ e no input dou um espaçamento na esquerda de 20px e ponho um cursor pointer para 
+ sinalizar o preenchimento do input.
+*/
+.form-input{
+    width: 60%;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    color: #A69981;
+    font-weight: bold;
+}
+.form-input input{
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    color: #0D0D0D;
+    font-size: 16px;
+    cursor: pointer;
+    padding-left: 20px;
+}
