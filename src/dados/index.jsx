@@ -21,3 +21,11 @@ const dadosProdutos = [
 
 /* Aqui faço a exportação de modo default da lista */
 export default dadosProdutos;
+
+
+
+
+
+
+
+
