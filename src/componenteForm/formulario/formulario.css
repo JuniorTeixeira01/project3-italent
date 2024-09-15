@@ -5,6 +5,9 @@
  aplico o display flex para defini-los em colunas e alinhar no centro, com uma borda 
  arredondada.
 */
+h2{
+    color: #A69981;
+}
 .container-form{
     width: 35%;
     height: 250px;
