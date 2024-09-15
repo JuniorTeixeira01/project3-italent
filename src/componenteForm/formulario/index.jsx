@@ -11,7 +11,7 @@ import './mobile.css';
 const Formulario = () => {
     return(
         <>
-          <h2>Gostou entre em contato</h2>
+          <h2>Gostou? entre em contato</h2>
           <form className='container-form'>
               <FormInput inputName={"Nome"} type={"name"} required={"required"}  placeholder={"Seu nome completo"} />
               <FormInput inputName={"Email"} type={"email"} required={"required"}  placeholder={"seuemail@email.com"} />
